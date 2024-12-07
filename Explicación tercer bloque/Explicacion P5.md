@@ -1,5 +1,5 @@
 # Programa 5/Bloque 3
-### PCalificaciónes
+### Calificaciónes
 - Este programa vemos el bloque Elif.
 - Este es usado para mostrar que tan bueno es tu promedio
 ```python
